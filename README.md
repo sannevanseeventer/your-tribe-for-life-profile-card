@@ -17,7 +17,7 @@ Maak met Prismic.io en Sveltekit jouw visitekaartje.
 </ul>
    
 <h3 id="#Gebruik"> 👩🏽‍💻 Gebruik van website</h3>
-Vanuit de website van The Ocean Cleanup kom je terecht bij het dashboard. Hierop is een wereldkaart te zien met vde verschillende Interceptors, het aantal opgeruimd plastic tot nu toe, de system statuses en er is een mogelijkheid tot het delen van het dashboard of te navigeren naar verschillende links. Ook is er een darkmode beschikbaar. 
+Dit visitekaartje heb ik erg simpel gehouden, omdat ik mij wilde focussen op het leren van Prismic.io en Sveltekit. Er zit een minimale animatie in; als je met de cursor over het blauwe vakje gaat, vult het visitekaartje zich met de kleur blauw. 
 
 <h3 id="Installatie"> 🛠Installatie</h3>
 
@@ -33,21 +33,20 @@ To create a production version of your app: <br>
 ```npm run build```
         
 <h3 id="#Kenmerken"> 📱 Kenmerken</h3>
-Dit project is gemaakt met Node, Express, EJS. Ik heb gebruik gemaakt van d3.js om de kaart te implementeren waarop te zien is waar en welke Interceptors op dit moment gebruikt worden. Per Interceptor kan je zien hoeveel afval er is opgeruimd in totaal en in de laatste 30 dagen.
+Dit project is gemaakt met Prismic.io en Sveltekit en geplubliceerd met Netlify. 
 
 <h4>Tools</h4>
 <ul>
         <li> 🖥️ Visual Studio Code</li>
-        <li> 🖥️ Cyclic </li>
+        <li> 🖥️ Netlify </li>
 </ul>
 
 <h4>Gebruikte technieken</h4>
 <ul>
 <li>📟 HTML</li>
         <li>🎨 CSS</li>
-        <li>🕹️ JavaScript</li>
- <li> 🚃 Express </li>
- <li> 🗺 D3 </li>
+        <li>🕹️ Prismic.io</li>
+ <li> 🚃 Sveltekit </li>
   </ul>      
 
 ## Licentie
