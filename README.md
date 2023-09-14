@@ -22,24 +22,15 @@ Vanuit de website van The Ocean Cleanup kom je terecht bij het dashboard. Hierop
 <h3 id="Installatie"> 🛠Installatie</h3>
 
 1. Creating a project <br>
-Create a new project in the current directory:
+Create a new project in the current directory: <br>
 ```npm create svelte@latest```
-
-Create a new project in my-app:
-```npm create svelte@latest my-app```
 
 2. Developing <br>
 ```npm run dev```
 
-Or start the server and open the app in a new browser tab:
-```npm run dev -- --open```
-
-3. Building <br>
-To create a production version of your app:
+4. Building <br>
+To create a production version of your app: <br>
 ```npm run build```
-You can preview the production build with `npm run preview`.
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
         
 <h3 id="#Kenmerken"> 📱 Kenmerken</h3>
 Dit project is gemaakt met Node, Express, EJS. Ik heb gebruik gemaakt van d3.js om de kaart te implementeren waarop te zien is waar en welke Interceptors op dit moment gebruikt worden. Per Interceptor kan je zien hoeveel afval er is opgeruimd in totaal en in de laatste 30 dagen.
