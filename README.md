@@ -1,7 +1,7 @@
 # Profilecard
 
 <h3 id="#Opdracht"> 👨🏼‍💼 Opdracht</h3>
-Voor de opdrachtgever GRRR heb ik een concept mogen ontwerpen voor een dashboard van The Ocean Cleanup. De bedoeling was om de data van de verschillende Interceptors en hoeveelheid opgeruimd plastic zo overzichtelijk mogelijk weer te geven.  
+Maak met Prismic.io en Sveltekit jouw visitekaartje.
 
 <br>
 <br>
