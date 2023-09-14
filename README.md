@@ -1,5 +1,6 @@
 # Profilecard
-![visitekartke](https://github.com/sannevanseeventer/your-tribe-for-life-profile-card/assets/112857444/4f4a291b-2f3b-478c-b901-c654f8626134)
+![visitekartke](https://github.com/sannevanseeventer/your-tribe-for-life-profile-card/assets/112857444/370473d1-b408-44db-b7a7-53cc17bbd39d)
+
 
 # create-svelte
 
