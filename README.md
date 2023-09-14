@@ -21,14 +21,12 @@ Vanuit de website van The Ocean Cleanup kom je terecht bij het dashboard. Hierop
 
 <h3 id="Installatie"> 🛠Installatie</h3>
 
-<li> Creating a project </li>
-```
+1. Creating a project
 Create a new project in the current directory:
-npm create svelte@latest
+```npm create svelte@latest```
 
 Create a new project in my-app:
-npm create svelte@latest my-app
-```
+```npm create svelte@latest my-app```
 
 <li> Developing </li>
 Once you've created a project and installed dependencies with `npm install`, start a development server:
