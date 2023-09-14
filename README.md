@@ -21,8 +21,8 @@ Vanuit de website van The Ocean Cleanup kom je terecht bij het dashboard. Hierop
 
 <h3 id="Installatie"> 🛠Installatie</h3>
 
-<li> Creating a project</li>
-```bash
+<li> Creating a project </li>
+```
 Create a new project in the current directory:
 npm create svelte@latest
 
@@ -30,7 +30,7 @@ Create a new project in my-app:
 npm create svelte@latest my-app
 ```
 
-<li>Developing</li>
+<li> Developing </li>
 Once you've created a project and installed dependencies with `npm install`, start a development server:
 ```bash
 npm run dev
@@ -39,7 +39,7 @@ Or start the server and open the app in a new browser tab:
 npm run dev -- --open
 ```
 
-<li>Building</li>
+<li> Building </li>
 To create a production version of your app:
 ```bash
 npm run build
