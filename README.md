@@ -1,4 +1,11 @@
 # Profilecard
+
+<h3 id="#Opdracht"> 👨🏼‍💼 Opdracht</h3>
+Voor de opdrachtgever GRRR heb ik een concept mogen ontwerpen voor een dashboard van The Ocean Cleanup. De bedoeling was om de data van de verschillende Interceptors en hoeveelheid opgeruimd plastic zo overzichtelijk mogelijk weer te geven.  
+
+<br>
+<br>
+
 ![visitekartke](https://github.com/sannevanseeventer/your-tribe-for-life-profile-card/assets/112857444/370473d1-b408-44db-b7a7-53cc17bbd39d)
 
 
